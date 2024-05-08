@@ -1,3 +1,5 @@
 Arquivo para descrever o repositorio.
 
 testando o gitignore.
+
+novo teste do gitignore. recriado.
