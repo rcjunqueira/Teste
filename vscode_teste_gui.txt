@@ -1,1 +1,2 @@
 teste vscode
+alterando o arquivo para validacao do commit via gui.
